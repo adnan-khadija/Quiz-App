@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "621805134401",
+    "project_id": "quizcontrole-3010e",
+    "storage_bucket": "quizcontrole-3010e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621805134401:android:bbb9e9f5ca8eaefde51cc0",
+        "android_client_info": {
+          "package_name": "com.example.quizcontrole"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg5ngCehckArtHA3JwRbISn1y-cUflaCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
